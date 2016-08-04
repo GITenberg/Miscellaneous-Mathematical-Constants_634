@@ -1,0 +1,25 @@
+_repo: Miscellaneous-Mathematical-Constants_634
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Plouffe, Simon
+    birthdate: 1956
+    gutenberg_agent_id: '330'
+    url: http://www.gutenberg.org/2009/agents/330
+    wikipedia: http://en.wikipedia.org/wiki/Simon_Plouffe
+description: ''
+gutenberg_bookshelf: Mathematics
+gutenberg_issued: '1996-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '634'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QA'
+- !lcsh 'Mathematical constants'
+- GITenberg
+title: Miscellaneous Mathematical Constants
+url: http://www.gutenberg.org/ebooks/634
